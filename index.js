@@ -1,3 +1,3 @@
 export default function handler(req, res) {
-  return res.send(`API endpoint index`);
+  return res.send(`Assalamu'alaikum!`);
 }
